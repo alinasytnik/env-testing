@@ -31,4 +31,3 @@ jobs:
         
       - name: Deploy site via Fleek CLI
         run: fleek sites deploy
-

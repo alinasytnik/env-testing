@@ -1,7 +1,7 @@
 {
   "sites": [
     {
-      "slug": "few-candle-deafening",
+      "slug": "modern-river-screeching",
       "distDir": "dist",
       "buildCommand": "yarn && yarn build"
     }
