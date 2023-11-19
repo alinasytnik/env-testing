@@ -1,7 +1,7 @@
 {
   "sites": [
     {
-      "slug": "thousands-stone-microscopic",
+      "slug": "few-candle-deafening",
       "distDir": "dist",
       "buildCommand": "yarn && yarn build"
     }
